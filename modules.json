@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "adm15_3",
+    "module_label": "ADM 15.3 - Administrative Support Tracking",
+    "module_title": "Administrative Support Tracking",
+    "module_slug": "administrative_support_tracking",
+    "app_code": "adm15",
+    "app_label": "ADM 15 - Office Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm15_1",
+    "module_label": "ADM 15.1 - Facility Management Coordination",
+    "module_title": "Facility Management Coordination",
+    "module_slug": "facility_management_coordination",
+    "app_code": "adm15",
+    "app_label": "ADM 15 - Office Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm15_2",
+    "module_label": "ADM 15.2 - Office Supply Management",
+    "module_title": "Office Supply Management",
+    "module_slug": "office_supply_management",
+    "app_code": "adm15",
+    "app_label": "ADM 15 - Office Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  }
+]
